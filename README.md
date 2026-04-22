@@ -1,8 +1,8 @@
-**Privacy Policy**
+# Privacy Policy
 
 This privacy policy applies to the Moo-doku app (hereby referred to as "Application") for mobile devices that was created by Cowfu Productions (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
-**Information Collection and Use**
+## Information Collection and Use
 
 The Application collects information when you download and use it. This information may include information such as
 
@@ -19,7 +19,7 @@ The Service Provider may use the information you provided to contact you from ti
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email, Apple ID, Device identifiers. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
-**Third Party Access**
+## Third Party Access
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
@@ -34,39 +34,39 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 *   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 *   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-**Opt-Out Rights**
+## Opt-Out Rights
 
 You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-**Data Retention Policy**
+## Data Retention Policy
 
 The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at cowfu.productions@gmail.com and they will respond in a reasonable time.
 
-**Children**
+## Children
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
 The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (cowfu.productions@gmail.com) so that they will be able to take the necessary actions.
 
-**Security**
+## Security
 
 The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-**Changes**
+## Changes
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
 This privacy policy is effective as of 2026-04-22
 
-**Your Consent**
+## Your Consent
 
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
-**Account & Data Deletion**
+## Account & Data Deletion
 
 You may request the permanent deletion of your Moo-doku account and all associated personal data at any time using either of the following methods.
 
-**Option 1 – In-App (Recommended)**
+### Option 1 – In-App (Recommended)
 
 1. Open the Moo-doku app.
 2. Tap your profile icon on the home screen.
@@ -74,11 +74,11 @@ You may request the permanent deletion of your Moo-doku account and all associat
 4. Scroll to the bottom and tap **Delete account**.
 5. Confirm the deletion when prompted. You will be asked to re-authenticate with your Google or Apple account before deletion proceeds.
 
-**Option 2 – Email Request**
+### Option 2 – Email Request
 
 Send a deletion request to [cowfu.productions@gmail.com](mailto:cowfu.productions@gmail.com) with the subject line **"Account Deletion Request"** and include the email address associated with your account. We will complete the deletion within 30 days.
 
-**What Gets Deleted**
+### What Gets Deleted
 
 - Your user profile (display name, email, photo)
 - Your friends list and any pending friend requests
@@ -86,13 +86,13 @@ Send a deletion request to [cowfu.productions@gmail.com](mailto:cowfu.production
 - Your leaderboard entries
 - Your Firebase Authentication account
 
-**What Is Retained**
+### What Is Retained
 
 - Local game data (stats, settings, streaks) stored on your device is **not** affected by account deletion. You can clear this by uninstalling the app.
 - Anonymised, aggregated analytics data collected by Google Play Services and AdMob may be retained in accordance with Google's own data retention policies.
 
 
-**Contact Us**
+## Contact Us
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at cowfu.productions@gmail.com.
 
