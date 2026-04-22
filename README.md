@@ -62,6 +62,36 @@ This privacy policy is effective as of 2026-04-22
 
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
+## Account & Data Deletion
+
+You may request the permanent deletion of your Moo-doku account and all associated personal data at any time using either of the following methods.
+
+### Option 1 – In-App (Recommended)
+
+1. Open the Moo-doku app.
+2. Tap your profile icon on the home screen.
+3. Tap **Account**.
+4. Scroll to the bottom and tap **Delete account**.
+5. Confirm the deletion when prompted. You will be asked to re-authenticate with your Google or Apple account before deletion proceeds.
+
+### Option 2 – Email Request
+
+Send a deletion request to [cowfu.productions@gmail.com](mailto:cowfu.productions@gmail.com) with the subject line **"Account Deletion Request"** and include the email address associated with your account. We will complete the deletion within 30 days.
+
+### What Gets Deleted
+
+- Your user profile (display name, email, photo)
+- Your friends list and any pending friend requests
+- Your VS challenges and results
+- Your leaderboard entries
+- Your Firebase Authentication account
+
+### What Is Retained
+
+- Local game data (stats, settings, streaks) stored on your device is **not** affected by account deletion. You can clear this by uninstalling the app.
+- Anonymised, aggregated analytics data collected by Google Play Services and AdMob may be retained in accordance with Google's own data retention policies.
+
+
 **Contact Us**
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at cowfu.productions@gmail.com.
